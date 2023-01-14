@@ -34,7 +34,7 @@ To install or work on this project, you'll need to clone all the repositories
 (using [VLDofusBotModulesBuilder](https://github.com/viclew1/VLDofusBotModulesBuilder)). Open a cmd where you want to
 install the bot and type these commands :
 
-- ```git clone https://github.com/viclew1/VLDofusBotModulesBuilder```
+- ```git clone https://github.com/Leommjr/VLDofusBotModulesBuilder```
 - ```cd VLDofusBotModulesBuilder```
 - ```git submodule update --init```
 - ```git submodule foreach git checkout master```
